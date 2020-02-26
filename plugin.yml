@@ -1,0 +1,11 @@
+name: StaffStatus
+main: Staff\Main
+api: 3.0.0
+description: /staff command.
+version: 1.0.0
+author: jaylac2000
+# This plugin is out of my servers core
+
+commands:
+  staff:
+    description: List the staff
