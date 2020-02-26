@@ -1,5 +1,5 @@
 name: StaffStatus
-main: Staff\Main
+main: jaylac2000\Staff\Main
 api: 3.0.0
 description: /staff command.
 version: 1.0.0
