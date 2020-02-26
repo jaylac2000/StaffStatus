@@ -25,7 +25,7 @@ class Main extends PluginBase implements Listener
     {
         if (strtolower($command->getName()) == "staff") {
 
-            if ($sender instanceof Player) {
+            if ($sender instanceof Player) { 
 
                 $sender->sendMessage("§l§5(-§9Staff §6Status§5-)");
                 foreach($this->list as $smem) {
