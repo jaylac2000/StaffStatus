@@ -34,7 +34,7 @@ class Main extends PluginBase implements Listener
                     else
                         $sender->sendMessage("§b" . $smem . " : §cOffline");
 
-                } 
+                }
             }
             return false;
         }
