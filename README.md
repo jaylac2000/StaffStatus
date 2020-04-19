@@ -11,4 +11,4 @@ When a player doesn /staff it will give them a list of all the names from the co
 Attempt to add photo 
 Idk how lol
 
-# Staff.png
+# https://github.com/jaylac2000/StaffStatus/blob/master/Staff.png
