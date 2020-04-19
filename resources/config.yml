@@ -1,5 +1,7 @@
-# add as much staff as you want
-# /staff will display IGN: online/offline
+# Note: You can add as many as you want
+# /staff will display IGN: online/offline status
  
 staff:
   - YourNameHere
+  - AnotherNameHere
+  - Etc
