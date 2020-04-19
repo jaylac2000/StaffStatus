@@ -1,9 +1,9 @@
 # StaffStatus
 
-This plugin adds the command /staff to your server. 
+This plugin adds the command to your server /staff
 
-Just drop this plugin in your /plugins folder and edit config in /plugins_data. 
+The permission to /staff is DEFAULT 
 
-This plugin will tell anyone who runs /staff all the staff and if they are online or not. The permission for /staff is default 
+Edit the config to your self and your staff members
 
-Was Rejected..... gonna try again
+When a player doesn /staff it will give them a list of all the names from the comfig as well as the online/offline status of them
