@@ -1,6 +1,6 @@
 name: StaffStatus
 main: jaylac2000\StaffStatus\Main
-api: 3.0.0
+api: 3.0.0, 3.11.6, 4.0.0
 description: "display the status of your staff"
 version: 1.0.0
 author: jaylac2000
