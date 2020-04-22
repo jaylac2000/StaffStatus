@@ -1,5 +1,6 @@
 # Note: You can add as many as you want
 # /staff will display IGN: online/offline status
+# When adding a name, it must be their exact name including caps
  
 staff:
   - YourNameHere
