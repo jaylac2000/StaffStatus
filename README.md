@@ -13,6 +13,6 @@ When a player does /staff it will give them a list of all the names from the com
 
 ![Staff](https://user-images.githubusercontent.com/53111006/79701921-e64c6080-826e-11ea-8154-ae8bd08ce4a0.png)
 
-Feel free to check out my server ApolloMCPEand test this command for yourself
+Feel free to check out my server ApolloMCPE and test this command for yourself
 IP: play.apollomcpe.xyz
 Port: 19132
