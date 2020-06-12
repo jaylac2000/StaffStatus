@@ -1,8 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/jaylac2000/StaffStatus
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/jaylac2000/StaffList
 build-by-default: true
 branches:
 - master
 projects:
-  StaffStatus:
+  StaffList:
     path: ""
 ...
