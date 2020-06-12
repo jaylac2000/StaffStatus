@@ -1,6 +1,6 @@
 <?php
 
-namespace jaylac2000\StaffLisr;
+namespace jaylac2000\StaffList;
 
 use pocketmine\Player;
 use pocketmine\utils\Config;
