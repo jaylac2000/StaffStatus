@@ -1,10 +1,11 @@
-name: StaffStatus
-main: jaylac2000\StaffStatus\Main
+name: StaffList
+main: jaylac2000\StaffList\Main
 api: 3.0.0
 description: "display the status of your staff"
-version: 1.0.0
-author: jaylac2000
+version: 1.0.1
+author: jaylac2000 
 website: https://github.com/jaylac2000
+web: https://apollomcpe.xyz/
 
 commands:
   staff:
