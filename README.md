@@ -40,8 +40,7 @@ Port: 19132
 - Does not show hand item
 - Does not show armour you are wearing 
 - Hides you from /list so players cannot see that you are online
-
-- Also has a perm "invis.see" to supply your Admins so they can other players inside of invisible mode (Default op)
+- Also has a perm "invis.see" to supply your Admins so they can see other players inside of invisible mode (Default op)
 
 # Media
 
