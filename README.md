@@ -25,12 +25,13 @@ This plugin will allow you to list your staff and their status weather it be the
 
 - Support to show the staff members rank
 - Support to set the staff members status to offline while in invisible mode
-- Maybe MySQL? To cross server staff / status? Will need help on this one...
+- Support for MySQL? To cross server staff / status? Will need help on this one...
+- Ability to /invisible <player>
 - More Media (photos)
 
 # Check it out
 
-Feel free to check out my server ApolloMCPE and test this command for yourself (Does not work in the hub)
+Feel free to check out my server ApolloMCPE and test /staff for yourself (Does not work in the hub)
 IP: play.apollomcpe.xyz
 Port: 19132
 
