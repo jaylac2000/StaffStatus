@@ -28,7 +28,7 @@ This plugin will allow you to list your staff and their status weather it be the
 - Maybe MySQL? To cross server staff / status? Will need help on this one...
 - More Media (photos)
 
-# Checl it out
+# Check it out
 
 Feel free to check out my server ApolloMCPE and test this command for yourself (Does not work in the hub)
 IP: play.apollomcpe.xyz
