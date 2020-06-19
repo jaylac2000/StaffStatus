@@ -1,5 +1,5 @@
 # StaffStatus
-fixed?
+fixed? gonna work?
 
 This plugin will allow you to list your staff and their status weather it be them online or offline
 
