@@ -26,7 +26,7 @@ This plugin will allow you to list your staff and their status weather it be the
 - Support to show the staff members rank
 - Support to set the staff members status to offline while in invisible mode
 - Support for MySQL? To cross server staff / status? Will need help on this one...
-- Ability to /invisible <player>
+- Ability to /invisible player
 - More Media (photos)
 
 # Check it out
