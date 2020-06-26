@@ -1,7 +1,7 @@
 name: StaffStatus  
 main: jaylac2000\StaffStatus\Main
 api: 3.0.0
-mcpe-protocol: [407]
+mcpe-protocol: 407
 description: "display your staffs status"
 version: 1.0.2
 author: jaylac2000
