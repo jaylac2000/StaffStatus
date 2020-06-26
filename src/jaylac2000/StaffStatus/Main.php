@@ -20,7 +20,6 @@ use function in_array;
 use function strtolower;
 
 class Main extends PluginBase {
-{
 
     private $list;
     public function onEnable()
