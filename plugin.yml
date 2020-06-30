@@ -13,13 +13,13 @@ commands:
     description: List the staff
   invisible:
     description: "Enter invisible mode"
-    permission: "invis.use"
+    permission: "invisible.use"
     aliases:
     - invis
 permissions:
-  invis.use:
+  invisible.use:
     description: "Permission to enter invisible mode"
     default: op
-  invis.see:
+  invisible.see:
      description: "Permission to see invisible players"
      default: op

@@ -20,7 +20,7 @@ class InvisibleTask extends Task {
                 if(in_array($p->getName(), Invisible::$invisible)){
                     foreach(Server::getInstance()->getOnlinePlayers() as $player){
                         $p->sendPopup("§bYou are currently invisible");
-			            if($player->hasPermission("invis.see")){
+			            if($player->hasPermission("invisible.see")){
 			                $player->showPlayer($p);
 		                }else{
 			                $player->hidePlayer($p);

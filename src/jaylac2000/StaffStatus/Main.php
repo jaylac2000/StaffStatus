@@ -19,7 +19,8 @@ use function array_search;
 use function in_array;
 use function strtolower;
 
-class Main extends PluginBase {
+class Main extends PluginBase implements Listener {
+class Invisible extends PluginBase {
 
     private $list;
     public function onEnable()
@@ -50,7 +51,8 @@ class Main extends PluginBase {
         return false;
     }
 }
-    public const PREFIX = C::GOLD . "Invisible " . C::DARK_BLUE . "> ". C::RESET;
+
+    public const PREFIX = C::LIGHT_BLUE . "Invisible " . C::DARK_GRAY . "> ". C::RESET;
 
     public static $invisible = [];
 
@@ -78,11 +80,11 @@ class Main extends PluginBase {
 		case "invisible":
 		case "invis":
 	        if(!$sender instanceof Player){
-                $sender->sendMessage(self::PREFIX . C::DARK_RED . "Please use this command inside the game...");
+                $sender->sendMessage(self::PREFIX . C::DARK_RED . "Please, use this command in-side the game...");
                 return false;
 	        }
 
-	        if(!$sender->hasPermission("invis.use")){
+	        if(!$sender->hasPermission("invisible.use")){
 		        $sender->sendMessage(self::PREFIX . C::DARK_RED . "You do not have permission to use this command");
                 return false;
 	        }
@@ -92,7 +94,7 @@ class Main extends PluginBase {
 		        $sender->sendMessage(self::PREFIX . C::GREEN . "You are now invisible.");
 		        $nameTag = $sender->getNameTag();
 		        self::$nametagg[$name] = $nameTag;
-		        $sender->setNameTag("§b[Invisible]§r $nameTag");
+		        $sender->setNameTag("§l§f[§bInvisible§f]§r $nameTag");
                 if($this->getConfig()->get("enable-leave") === true){
                     $msg = $this->getConfig()->get("FakeLeave");
                     $msg = str_replace("%name", "$name", $msg);
@@ -115,7 +117,7 @@ class Main extends PluginBase {
                         $msg = str_replace("%name", "$name", $msg);
                         $this->getServer()->broadcastMessage($msg);
 		        }
-               	    $sender->sendMessage(self::PREFIX . C::DARK_RED . "You are no longer invisible!");
+               	    $sender->sendMessage(self::PREFIX . C::DARK_RED . "You are no longer invisible.");
             }
         }
         return true;

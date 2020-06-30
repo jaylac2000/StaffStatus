@@ -1,7 +1,9 @@
 # Note: You can add as many as you want
 # /staff will display IGN: online/offline status
 # When adding a name, it must be their exact name including caps
- 
+
+# ----------Staff-----Status-----Names----------
+
 staff:
   - jaylac2000 # my IGN : you may remove it
   - JayzCraftYT # my second account : you may remove it
@@ -9,7 +11,7 @@ staff:
   - AnotherNameHere
   - Etc
 
-# -----------------------------------------------------------------
+# ----------Invisible-----Stuff-----Settings----------
  
 # Use the § symbol for color coding
 # Use %name for getting a players name
