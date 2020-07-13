@@ -1,25 +1,12 @@
 name: StaffStatus  
 main: jaylac2000\StaffStatus\Main
 api: 3.0.0
-mcpe-protocol: [407]
 description: "display your staffs status"
-version: 1.0.2
+version: 1.0.0
 author: jaylac2000
 github: https://github.com/jaylac2000
-website: https://apollomcpe.xyz # COMING SOON
+website: https://apollomcpe.xyz/
 
 commands:
   staff:
     description: List the staff
-  invisible:
-    description: "Enter invisible mode"
-    permission: "invisible.use"
-    aliases:
-    - invis
-permissions:
-  invisible.use:
-    description: "Permission to enter invisible mode"
-    default: op
-  invisible.see:
-     description: "Permission to see invisible players"
-     default: op

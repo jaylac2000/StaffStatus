@@ -14,13 +14,6 @@ staff:
 # ----------Invisible-----Stuff-----Settings----------
  
 # Use the § symbol for color coding
-# Use %name for getting a players name
 
-# The message that will be sent to online players when you will activate invisibility mode
-enable-leave: false
-FakeLeave: "§e%name §l§d[§4-§d]" # THIS IS MY LEAVE MESSAGE, CHANGE IT TO YOURS!!
-
-# The message that will be sent to online players when you will deactivate invisibility mode
-enable-join: false
-FakeJoin: "§e%name §l§d[§2+§d]" # THIS IS MY JOIN MESSAGE, CHANGE IT TO YOURS!!
+# WIP - as it was breaking, and trying to get the main part of the plugin released again...
 ...
