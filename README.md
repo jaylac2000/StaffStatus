@@ -22,9 +22,8 @@ This plugin will allow you to list your staff and their status weather it be the
 
 - Invisable System
 - Support to show the staff members rank
-- Support to set the staff members status to offline while in invisible mode
 - Support for MySQL? To cross server staff / status? Will need help on this one...
-- Ability to /invisible player
+- Make /staff a form?
 - More Media (photos)
 
 # Check it out
@@ -34,11 +33,6 @@ IP: play.apollomcpe.xyz
 Port: 19132
 
 # Invisable mode (BROKEN - WIP)
-
-- Does not show hand item
-- Does not show armour you are wearing
-- Hides you from /list so players cannot see that you are online
-- Also has a perm "invis.see" to supply your Admins so they can see other players inside of invisible mode (Default op)
 
 # Media
 
