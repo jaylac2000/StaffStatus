@@ -1,5 +1,9 @@
 # StaffStatus
 
+[![](https://poggit.pmmp.io/shield.state/StaffStatus)](https://poggit.pmmp.io/p/StaffStatus)
+[![](https://poggit.pmmp.io/shield.dl.total/StaffStatus)](https://poggit.pmmp.io/p/StaffStatus)
+[![](https://poggit.pmmp.io/shield.dl/StaffStatus)](https://poggit.pmmp.io/p/StaffStatus)
+
 This plugin will allow you to list your staff and their status weather it be them online or offline
 
 # Commands:
