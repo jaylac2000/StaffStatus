@@ -5,7 +5,7 @@ description: "display your staffs status"
 version: 1.0.1
 author: jaylac2000
 github: https://github.com/jaylac2000
-website: https://apollomcpe.xyz/
+website: https://scepternetwork.com/
 
 commands:
   staff:
