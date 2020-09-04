@@ -29,7 +29,7 @@ This plugin will allow you to list your staff and their status weather it be the
 # Check it out
 
 Feel free to check out my server ApolloMCPE and test /staff for yourself (Does not work in the hub)
-IP: play.apollomcpe.xyz
+IP: play.scepternetwork.com
 Port: 19132
 
 # Invisable mode (BROKEN - WIP)
