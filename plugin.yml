@@ -2,7 +2,7 @@ name: StaffStatus
 main: jaylac2000\StaffStatus\Main
 api: 3.0.0
 description: "display your staffs status"
-version: 1.0.1
+version: 1.0.0
 author: jaylac2000
 github: https://github.com/jaylac2000
 website: https://scepternetwork.com/

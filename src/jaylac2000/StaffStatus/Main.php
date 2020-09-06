@@ -28,12 +28,12 @@ class Main extends PluginBase implements Listener {
 
             if ($sender instanceof Player) {
 
-                $sender->sendMessage("§l§5(-§9Staff §6Status§5-)");
+                $sender->sendMessage("§l§5(-§eStaff §6Status§5-)");
                 foreach($this->list as $smem) {
                     if ($this->getServer()->getPlayerExact($smem) != null)
-                        $sender->sendMessage("§b" . $smem . " : §aOnline");
+                        $sender->sendMessage("§2" . $smem . " : §l§aOnline");
                     else
-                        $sender->sendMessage("§b" . $smem . " : §cOffline");
+                        $sender->sendMessage("§c" . $smem . " : §l§4Offline");
 
                 }
             }

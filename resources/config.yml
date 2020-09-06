@@ -2,7 +2,7 @@
 # /staff will display IGN: online/offline status
 # When adding a name, it must be their exact name including caps
 
-# ----------Staff-----Status-----Names----------
+# ----- Staff Status Names -----
 
 staff:
   - jaylac2000 # my IGN : you may remove it
@@ -12,8 +12,4 @@ staff:
   - Etc
 
 # ----------Invisible-----Stuff-----Settings----------
- 
-# Use the § symbol for color coding
-
-# WIP - as it was breaking, and trying to get the main part of the plugin released again...
 ...

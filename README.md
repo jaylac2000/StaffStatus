@@ -19,25 +19,25 @@ This plugin will allow you to list your staff and their status weather it be the
 
 - /staff : There is no alias to this command
 
-# Config: 
+# Config:
+
 - Edit the config to add your self and your staff members
-- Also broadcast join / leave messages for invisible mode if you wish
 
 # COMING SOON:
 
 - Invisable System
 - Support to show the staff members rank
-- Support for MySQL? To cross server staff / status? Will need help on this one...
+- Support for MySQL? To cross server staff / status? Also display on which server they are on... Will need help on this one...
 - Make /staff a form?
+- Choice on the Staff Status List Colours.
 - More Media (photos)
+- Perm for ranks rather than add/remove manually in config
 
 # Check it out
 
-Feel free to check out my server ApolloMCPE and test /staff for yourself (Does not work in the hub)
+Feel free to check out my server ScepterMCPE and test /staff for yourself (Does not work in the hub)
 IP: play.scepternetwork.com
 Port: 19132
-
-# Invisable mode (BROKEN - WIP)
 
 # Media
 
