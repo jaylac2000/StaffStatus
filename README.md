@@ -3,6 +3,7 @@
 [![](https://poggit.pmmp.io/shield.state/StaffStatus)](https://poggit.pmmp.io/p/StaffStatus)
 [![](https://poggit.pmmp.io/shield.dl.total/StaffStatus)](https://poggit.pmmp.io/p/StaffStatus)
 [![](https://poggit.pmmp.io/shield.dl/StaffStatus)](https://poggit.pmmp.io/p/StaffStatus)
+[![Discord](https://img.shields.io/discord/574515541407039511?color=informational&label=discord)](https://discord.gg/9rMhGaF)
 
 This plugin will allow you to list your staff and their status weather it be them online or offline
 
