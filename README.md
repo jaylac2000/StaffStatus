@@ -22,8 +22,8 @@ This plugin will display your staff and their online/offline status
 
 Config:
 - Edit the config to add your self and your staff members
-- You can choose how the list is displayed and colours
-- Choose the online/offline colours
+- You can choose how the list is displayed and colors
+- Choose the online/offline colors
 
 # Features:
 
