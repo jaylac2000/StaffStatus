@@ -1,3 +1,4 @@
+---
 # Note: You can add as many as you want
 # /staff will display IGN: online/offline status
 # When adding a name, it must be their exact name including caps
@@ -6,7 +7,8 @@
 
 staff:
   - jaylac2000 # my IGN : you may remove it
-  - JayzCraftYT # my second account : you may remove it
+  - breghrlly # my server CO-OWNER : you may remove it
+  - diamondkorben # A Developer : you may remove his name to add your staffs name
   - YourNameHere
   - AnotherNameHere
   - Etc
