@@ -2,7 +2,7 @@ name: StaffStatus
 main: jaylac2000\StaffStatus\Main
 api: 3.0.0
 description: "display your staffs status"
-version: 1.0.0
+version: 1.0.1
 author: jaylac2000
 github: https://github.com/jaylac2000
 website: https://scepternetwork.com/
@@ -10,3 +10,8 @@ website: https://scepternetwork.com/
 commands:
   staff:
     description: List the Staff
+
+permissions:
+  stafflist.hidden:
+    description: Given to a staff member when they vanish # this DOES NOT need to be assigned
+    default: false
