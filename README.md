@@ -11,10 +11,10 @@ This plugin will display your staff and their online/offline status
 
 ----------
 
-1.0.1 (Most reacent update)
+1.0.1 (Most recent update)
 >>>> [updates log](https://github.com/jaylac2000/StaffStatus/blob/master/updates/updates.md)
 - more configurable options
-- display your status as offline when certain commands are ran ([VanishV2](https://poggit.pmmp.io/p/VanishV2) compatable)
+- display your status as offline when certain commands are ran ([VanishV2](https://poggit.pmmp.io/p/VanishV2) compatible)
 - works with all and any vanish plugin including private ones
 - you will need to DELETE your config is you previously had this plugin
 
@@ -30,6 +30,7 @@ Config:
 - Staff Status
 - Staff List
 - Display your status as offline when certain commands are ran such as vanish (edit in config)
+- Know as the Invisible System
 - Configurable options
 
 ----------
@@ -45,7 +46,6 @@ Config:
 # COMING SOON:
 
 - Status/List displayed in a form?
-- Invisable System
 - Support to show the staff members rank
 - Perm for ranks rather than add/remove manually in config^
 - Support for MySQL? To cross server staff / status? Also display on which server they are on... Will need help on this one...

@@ -29,4 +29,4 @@ vanish-commands: # add your vanish commands / remove what you don't have from he
   - vanish
   - supervanish
   - hide
-  # these commands must exist on your server^
+# these commands must exist on your server^
