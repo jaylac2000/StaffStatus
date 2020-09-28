@@ -55,7 +55,7 @@ Config:
 
 # My Server
 
-Feel free to check out my server ScepterMCPE and test /staff for yourself (Does not work in the hub)
+Feel free to check out my server ScepterMCPE and test `/staff` for yourself (does not work in the hub)
 
 - IP: play.scepternetwork.com
 - Port: 19132
