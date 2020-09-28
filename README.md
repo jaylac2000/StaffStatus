@@ -73,7 +73,7 @@ Feel free to check out my server ScepterMCPE and test /staff for yourself (Does 
 ![Staff_1](https://user-images.githubusercontent.com/53111006/92403647-dfc86380-f0ff-11ea-8315-4d7e8b59f2c2.png)
 [VanishV2](https://poggit.pmmp.io/p/VanishV2) compatable
 ![Staff_2](https://user-images.githubusercontent.com/53111006/92403651-e1922700-f0ff-11ea-9d35-af820e1fe9fc.png)
-My SuperVanish is private as well as my Vanish but this will work with any and every plugin as long as your commands are added in the plugin.yml
+My SuperVanish is private as well as my Vanish but this will work with any and every plugin as long as your commands are added in the config.yml
 ![Staff](https://user-images.githubusercontent.com/53111006/92407698-4f8f1c00-f109-11ea-8930-260da43de6ac.png)
 ![Staff_Pic](https://user-images.githubusercontent.com/53111006/92407705-51f17600-f109-11ea-9543-6c77df2ed7d4.png)
 ![Staff_3](https://user-images.githubusercontent.com/53111006/92403655-e35bea80-f0ff-11ea-9c69-0e49d1e7adbf.png)
