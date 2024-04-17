@@ -22,4 +22,4 @@
 
 # 1.0.2
 
-- Not out yet
+- Updated to Pocketmine-MP 5.0.0 by https://github.com/SleakGaming1
