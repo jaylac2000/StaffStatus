@@ -1,17 +1,20 @@
 name: StaffStatus  
 main: jaylac2000\StaffStatus\Main
-api: 3.0.0
-description: "display your staffs status"
-version: 1.0.1
-author: jaylac2000
+api: 5.0.0
+description: "Display the status of your staff members."
+version: 1.0.2
+author: [jaylac2000, SleakGaming1]
 github: https://github.com/jaylac2000
 website: https://scepternetwork.com/
 
 commands:
   staff:
-    description: List the Staff
-
+    description: Get a list of online and offline staff.
+    permission: staff.command
 permissions:
   stafflist.hidden:
-    description: Given to a staff member when they vanish # this DOES NOT need to be assigned
-    default: false
+    default: op
+    description: Given to a staff member when they vanish. # Does NOT have to be assigned.
+  staff.command:
+    default: true
+    description: Access to list all staff members.
